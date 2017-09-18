@@ -1,1 +1,1 @@
-For my programming project, I will be trying to use processing to create a game that will pin to players against each other in a snow ball fight. Each person will have a health bar and when they are hit with enough snow balls they die. There will be two people playing against each other moving around the screen throwing snow balls at one another.
+For my programming project I will be making a rpg and/or arcade game of thrones game using processing.
